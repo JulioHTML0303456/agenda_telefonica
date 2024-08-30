@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": "08cf",
+      "nombre": "pancracio",
+      "apellido": "estrella",
+      "edad": "23",
+      "tel": "351222135"
+    },
+    {
+      "id": "efef",
+      "nombre": "fede",
+      "apellido": "fede",
+      "edad": "24",
+      "tel": "351222136"
+    },
+    {
+      "id": "0c3a",
+      "nombre": "alberto",
+      "apellido": "alpaca",
+      "edad": "32",
+      "tel": "321648684684"
+    }
+  ]
+}
